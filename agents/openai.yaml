@@ -1,0 +1,6 @@
+interface:
+  display_name: "MTV技术岗自我介绍"
+  short_description: "按定位、成果和岗位价值整理中文自我介绍，保留技术严谨性与自然表达"
+  default_prompt: "使用 $mtv-self-introduction-cn，根据我的经历和目标岗位修改自我介绍，保持自然、专业、严谨。"
+policy:
+  allow_implicit_invocation: true
